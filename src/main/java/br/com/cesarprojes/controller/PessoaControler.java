@@ -14,7 +14,7 @@ import br.com.cesarprojes.repository.PessoaRepository;
 
 
 @Controller
-@RequestMapping(path="/pessoa")
+@RequestMapping(path="/ammf-ws/pessoa")
 public class PessoaControler {
 	
 	@Autowired

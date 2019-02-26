@@ -14,7 +14,7 @@ import br.com.cesarprojes.entity.Texto;
 import br.com.cesarprojes.repository.TextoRepository;
 
 @Controller
-@RequestMapping(path="/texto")
+@RequestMapping(path="/ammf-ws/texto")
 public class TextoController {
 	
 	@Autowired

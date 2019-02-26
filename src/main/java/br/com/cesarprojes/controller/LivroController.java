@@ -13,7 +13,7 @@ import br.com.cesarprojes.entity.Livro;
 import br.com.cesarprojes.repository.LivroRepository;
 
 @Controller
-@RequestMapping(path="/livro")
+@RequestMapping(path="/ammf-ws/livro")
 public class LivroController {
 	
 	@Autowired
